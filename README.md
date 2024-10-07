@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on applications of AI + Solidworks Certification @ TAMU
 - 💬 Ask me about **Rockets and FSAE**
-- 📫 How to reach me **[https://felipeelia.dev/contact/](https://www.linkedin.com/in/alexisrappa/)**
+- 📫 How to reach me **https://www.linkedin.com/in/alexisrappa/**
 - ⚡ Fun fact **Love to boulder and weightlift**
 
 <h3 align="left">Connect with me:</h3>
